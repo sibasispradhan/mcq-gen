@@ -10,7 +10,7 @@ from langchain.callbacks import get_openai_callback
 from src.mcq_generator.MCQ_Generator import generate_evaluate_chain
 
 #loading json file
-with open('/workspaces/mcq-gen/Response.json','r') as file:
+with open('Response.json','r') as file:
     RESPONSE_JSON = json.load(file)
     
 #creating a title using st.form
