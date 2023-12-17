@@ -1,3 +1,3 @@
 from src.mcq_generator.logger import logging
 
-logging.info("hello, I am going to start my execution...")
+logging.info("hello, I am using github codebase...")
