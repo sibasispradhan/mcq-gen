@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcq-genrator
+Version: 0.0.1
+Author: sibasis pradhan
+Author-email: 2021sc04667@wilp.bits-pilani.ac.in
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
