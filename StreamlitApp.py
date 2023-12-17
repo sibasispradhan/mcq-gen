@@ -14,7 +14,7 @@ with open('Response.json','r') as file:
     RESPONSE_JSON = json.load(file)
     
 #creating a title using st.form
-st.title("MCQs Creator Application with LangChain...")
+st.title("MCQs Creator Application with LangChain 🦜⛓️")
 
 #create a form using st.form
 with st.form("user_inputs"):
